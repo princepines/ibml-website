@@ -17,3 +17,8 @@ body {
 .main {
     padding: 2% !important;
 }
+
+iframe {
+    display:block;
+    width:100%;
+}
