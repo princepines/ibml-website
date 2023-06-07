@@ -18,11 +18,6 @@ body {
     padding: 2% !important;
 }
 
-iframe {
-    display:block;
-    width:100%;
-}
-
 /* damn scrollbar */
 body::-webkit-scrollbar {
     background-color: #fff;
