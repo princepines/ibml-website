@@ -12,6 +12,16 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous">
     </script>
+    <!-- meta tags -->
+    <meta property="og:title" content="TechSPARKS Interbarangay Mobile Legends Tournament 2023" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://tsibml.mooo.com" />
+    <meta property="og:image" content="https://tsibml.mooo.com/poster.png" />
+    <meta property="og:description" content="Official Website for TechSPARKS IBMLT 2023!" />
+    <meta name="theme-color" content="#004AAD">
+
+    <!-- Include this to make the og:image larger -->
+    <meta name="twitter:card" content="summary_large_image">
 </head>
 <body>
     <?php include 'nav.php';?>
