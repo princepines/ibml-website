@@ -15,8 +15,8 @@
     <!-- meta tags -->
     <meta property="og:title" content="TechSPARKS Interbarangay Mobile Legends Tournament 2023" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://tsibml.mooo.com" />
-    <meta property="og:image" content="https://tsibml.mooo.com/poster.png" />
+    <meta property="og:url" content="https://tsibml.k4th.site" />
+    <meta property="og:image" content="https://tsibml.k4th.site/poster.png" />
     <meta property="og:description" content="Official Website for TechSPARKS IBMLT 2023!" />
     <meta name="theme-color" content="#004AAD">
 
@@ -39,7 +39,7 @@
             </center>
         </div><br>
         <div class="row">
-            <button type="button" class="btn btn-warning ml-2" onclick="window.location.href='https://k4th.mooo.com';">Watch Now!</button>
+            <button type="button" class="btn btn-warning ml-2" onclick="window.location.href='https://ppv.k4th.site';">Watch Now!</button>
         </div>
 </body>
 </html>
