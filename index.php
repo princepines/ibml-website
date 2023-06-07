@@ -19,7 +19,8 @@
         <div class="row">
             <img src="poster.png" alt="Poster of IBML">
             <div class="col">
-                <iframe src="https://brackethq.com/b/j1ljb/embed/" width="100%" height="550" frameborder="0"></iframe>
+                <br>
+                <iframe src="https://brackethq.com/b/j1ljb/embed/" width="100%" height="300" frameborder="0"></iframe>
                 <!-- Insert Live Stats -->
                 <button type="button" class="btn btn-warning ml-2" onclick="window.location.href='k4th.mooo.com;">Watch Now!</button>
             </div>
