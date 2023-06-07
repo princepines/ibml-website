@@ -18,6 +18,7 @@
     <div class="container">
         <div class="row">
             <img src="poster.png" alt="Poster of IBML">
+        </div>
         <div class="row">
             <center>
                 <h1>Live Leaderboard</h1>
