@@ -17,7 +17,7 @@
     <?php include 'nav.php';?>
     <div class="container">
         <div class="row">
-            <img src="poster.png" alt="Poster of IBML">
+            <img src="poster.png" alt="Poster of IBML"><br>
             <button type="button" class="btn btn-warning ml-2" onclick="window.location.href='k4th.mooo.com;">Watch Now!</button>
         </div><br>
         <div class="row">
