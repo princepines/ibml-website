@@ -17,7 +17,7 @@
     <?php include 'nav.php';?>
     <div class="container">
         <div class="row">
-            <img src="poster.png" alt="Poster of IBML">
+            <img src="poster.png" alt="Poster of IBML"><br>
             <div class="col">
                 <center>
                 <h1>Live Leaderboard</h1>
