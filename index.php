@@ -21,7 +21,7 @@
             <div class="col">
                 <br>
                 <center>
-                <iframe src="https://brackethq.com/b/j1ljb/embed/" width="100%" height="300" frameborder="0"></iframe>
+                <iframe src="https://brackethq.com/b/j1ljb/embed/" width="80%" height="300" frameborder="0"></iframe>
                 </center>
                 <!-- Insert Live Stats -->
                 <button type="button" class="btn btn-warning ml-2" onclick="window.location.href='k4th.mooo.com;">Watch Now!</button>
