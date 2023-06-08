@@ -45,7 +45,9 @@
         </div><br>
         <div class="row">
             <div class="col">
+                <center
                 <button type="button" class="btn btn-warning btn-lg btn-block" onclick="window.location.href='https://ppv.k4th.site';">Watch Now!</button>
+                </center>
             </div>
         </div>
 </body>
