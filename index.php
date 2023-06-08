@@ -28,7 +28,7 @@
     <div class="container">
         <div class="row">
             <div class="col">
-            <div class="alert alert-warning">Watch this event Live on <a href="https://ppv.k4th.site" class="alert-link">Pay-Per-View Website!</a></div>
+                <div class="alert alert-warning">Watch this event Live on <a href="https://ppv.k4th.site" class="alert-link">Pay-Per-View Website!</a></div>
             </div>
         </div><br>
         <div class="row">
@@ -44,7 +44,10 @@
             </center>
         </div><br>
         <div class="row">
-            <button type="button" class="btn btn-warning ml-2" onclick="window.location.href='https://ppv.k4th.site';">Watch Now!</button>
+            <div class="col">
+            <button type="button" class="btn btn-warning btn-sm" onclick="window.location.href='https://ppv.k4th.site';">Watch Now!</button>
+
+            </div>
         </div>
 </body>
 </html>
