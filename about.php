@@ -25,7 +25,7 @@
 <body>
     <?php include 'nav.php';?>
     <div class="container">
-        <div class="row">
+        <div class="row g-0">
             <div class="col">
                 <h1>About this tournament</h1>
                 <p>This tournament is hosted by TechSPARKS Organization, and Informatics College Northgate.<br>Produced by K4th Productions.</p>

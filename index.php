@@ -26,15 +26,15 @@
 <body>
     <?php include 'nav.php';?>
     <div class="container">
-        <div class="row">
+        <div class="row g-0">
             <div class="col">
                 <div class="alert alert-warning">Watch this event Live on <a href="https://ppv.k4th.site" class="alert-link">Pay-Per-View Website!</a></div>
             </div>
         </div>
-        <div class="row">
+        <div class="row g-0">
             <img src="poster.png" alt="Poster of IBML">
         </div><br>
-        <div class="row">
+        <div class="row g-0">
             <center>
                 <h1>Live Leaderboard</h1>
                 <iframe src="https://brackethq.com/b/j1ljb/embed/" width="90%" height="600" frameborder="0"></iframe>
@@ -43,7 +43,7 @@
                 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6e2JdRGCaFi8MzW43Zq4o0iqAY6CkVJfOiKcZHMW_9IByeyPKwffxZoapU4_OwSfnT-RxgmGWdvGI/pubhtml?widget=true&amp;headers=false" width="90%" height="900"></iframe>
             </center>
         </div><br>
-        <div class="row">
+        <div class="row g-0">
             <div class="col">
                 <center>
                 <button type="button" class="btn btn-warning btn-lg btn-block" onclick="window.location.href='https://ppv.k4th.site';">Watch Now!</button>
