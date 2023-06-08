@@ -30,7 +30,7 @@
             <div class="col">
                 <div class="alert alert-warning">Watch this event Live on <a href="https://ppv.k4th.site" class="alert-link">Pay-Per-View Website!</a></div>
             </div>
-        </div><br>
+        </div>
         <div class="row">
             <img src="poster.png" alt="Poster of IBML">
         </div><br>
