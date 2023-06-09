@@ -90,7 +90,7 @@
                     <li>Pay-Per-View is available to anyone but will have to pay PHP30 pesos. Onsite Finals Match will be screened and must provide a receipt that you have availed the Pay-Per-View.</li>
                     <li>Photography is allowed, but Videography OR any type of capturing moving pictures is NOT Allowed, violating this may result on person be kicked out by our Marshalls.</li>
                     <li>This will be Livestreamed through Online Pay-Per-View ONLY.</li>
-                    <li>Finals can be watched too physically on Informatics Northgate Campus (present your SMS Confirmation that you have been paid for this event).</li>
+                    <li>Finals can be watched too physically on Informatics Northgate Campus (present your Screenshot Confirmation that you have been paid for this event).</li>
                     <li>Any types of cheering signs are allowed but maintain CLAYGO. (For Physical Watching)</li>
                 </ol>
             </div>
