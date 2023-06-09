@@ -58,7 +58,7 @@
     <div class="container">
         <div class="row g-0">
             <div class="col">
-                <!--<div class="alert alert-warning">Watch this event Live on <a href="https://ppv.k4th.site" class="alert-link">Facebook!</a></div>-->
+                <div class="alert alert-warning">Watch this event on <a href="https://www.facebook.com/techsparksorg" class="alert-link">Facebook!</a></div>
             </div>
         </div>
         <div class="row g-0">
@@ -73,12 +73,12 @@
                 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS6e2JdRGCaFi8MzW43Zq4o0iqAY6CkVJfOiKcZHMW_9IByeyPKwffxZoapU4_OwSfnT-RxgmGWdvGI/pubhtml?widget=true&amp;headers=false" width="90%" height="900"></iframe>
             </center>
         </div><br>
-        <!-- <div class="row g-0">
+        <div class="row g-0">
             <div class="col">
                 <center>
-                <button type="button" class="btn btn-warning btn-lg btn-block" onclick="window.location.href='https://ppv.k4th.site';">Watch Now!</button>
+                <button type="button" class="btn btn-primary btn-lg btn-block" onclick="window.location.href='https://www.facebook.com/techsparksorg';">Visit our Facebook Page</button>
                 </center>
             </div>
-        </div> -->
+        </div>
 </body>
 </html>

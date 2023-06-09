@@ -6,7 +6,8 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
             <a class="nav-item nav-link" href="/">Home</a>
-            <a class="nav-item nav-link" href="" target="_blank">Watch Live</a>  
+            <a class="nav-item nav-link" href="https://www.facebook.com/techsparksorg" target="_blank">Facebook Page</a>
+            <a class="nav-item nav-link" href="" target="_blank">Register for Pay-Per-View</a>
             <a class="nav-item nav-link" href="about.php">About</a> 
      </div>
   </div>
