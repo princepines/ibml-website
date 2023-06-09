@@ -14,8 +14,8 @@
     <!-- meta tags -->
     <meta property="og:title" content="TechSPARKS Interbarangay Mobile Legends Tournament 2023" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://tsibml.mooo.com" />
-    <meta property="og:image" content="https://tsibml.mooo.com/poster.png" />
+    <meta property="og:url" content="https://tsibml.k4th.site" />
+    <meta property="og:image" content="https://tsibml.k4th.site/poster.png" />
     <meta property="og:description" content="Official Website for TechSPARKS IBMLT 2023!" />
     <meta name="theme-color" content="#004AAD">
 
@@ -28,7 +28,7 @@
         <div class="row g-0">
             <div class="col">
                 <h1>About this tournament</h1>
-                <p>This tournament is hosted by TechSPARKS Organization, and Informatics College Northgate.<br>Produced by K4th Productions.</p>
+                <p>This tournament is hosted by TechSPARKS Organization, and Informatics College Northgate.</p>
                 <br>
                 <h1>Tournament Rules</h1>
                 <ol>

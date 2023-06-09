@@ -6,7 +6,7 @@
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
             <a class="nav-item nav-link" href="/">Home</a>
-            <a class="nav-item nav-link" href="https://ppv.k4th.site" target="_blank">Watch Live</a>  
+            <a class="nav-item nav-link" href="" target="_blank">Watch Live</a>  
             <a class="nav-item nav-link" href="about.php">About</a> 
      </div>
   </div>
