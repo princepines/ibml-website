@@ -42,7 +42,8 @@
                     <li>No registration fee will be collected.</li>
                     <li>Latecomers will not be entertained to play. Incomplete teams will automatically be disqualified for that match. Teams must check-in 15 minutes before the team’s scheduled match.</li>
                     <li>All types of communication within each team is allowed, BUT any form of profanity is strictly prohibited (either by means of vocal or chat communication: only 2 warnings per team and disqualification on 3rd warning).</li>
-                    <li>During Semi-Finals, each team must gather into one place, conduct a video-conference call for each team to ensure that the game is fairly played.</li>
+                    <li>During event, each team must gather into one place, conduct a video-conference call for each team to ensure that the game is fairly played.</li>
+                    <li>Players are prohibited from using 3rd party software or cheats, violating this rule will get the team disqualified immediately.</li>
                 </ol>
                 <br>
                 <h1>Game Mechanics</h1>
