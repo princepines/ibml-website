@@ -60,7 +60,7 @@
             <div class="col">
                 <div class="alert alert-danger" role="alert">
                     <h1 class="alert-heading">Attention!</h1>
-                    <p>Registration for ML Teams is now <b>CLOSED!</b> Watch out for the opening on June 14 <a href="https://www.facebook.com/techsparksorg" class="alert-link">livestreamed on TechSPARKS Facebook Page</a>.</p>
+                    <p>Registration for ML Teams is now <b>CLOSED!</b> Watch out for the opening on June 14 <a href="https://www.facebook.com/techsparksorg" class="alert-link">livestreaming on TechSPARKS Facebook Page</a>.</p>
                 </div>
                 <div class="alert alert-warning">Watch the opening (June 14) on <a href="https://www.facebook.com/techsparksorg" class="alert-link">Facebook Page of TechSPARKS!</a></div>
             </div>
