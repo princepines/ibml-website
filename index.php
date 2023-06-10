@@ -59,7 +59,7 @@
         <div class="row g-0">
             <div class="col">
                 <div class="alert alert-danger" role="alert">
-                    <h4 class="alert-heading">Attention!</h4>
+                    <h1 class="alert-heading">Attention!</h1>
                     <p>Registration for ML Teams is now <b>CLOSED!</b> Thank you for supporting this event and we hope to see you on Opening and Pay-Per-View Event.</p>
                 </div>
                 <div class="alert alert-warning">Watch the opening (June 14) on <a href="https://www.facebook.com/techsparksorg" class="alert-link">Facebook Page of TechSPARKS!</a></div>
