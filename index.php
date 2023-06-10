@@ -57,8 +57,14 @@
     <?php include 'nav.php';?>
     <div class="container">
         <div class="row g-0">
+        <div class="col">
+                <div class="alert alert-danger" role="alert">
+                    <h4 class="alert-heading">Attention!</h4>
+                    <p>Registration for ML Teams is now <b>CLOSED!</b>. Thank you for supporting this event and we hope to see you on Opening and Pay-Per-View Event.</p>
+                </div>
+            </div>
             <div class="col">
-                <div class="alert alert-warning">Watch this event on <a href="https://www.facebook.com/techsparksorg" class="alert-link">Facebook!</a></div>
+                <div class="alert alert-warning">Watch the opening (June 14) on <a href="https://www.facebook.com/techsparksorg" class="alert-link">Facebook Page of TechSPARKS!</a></div>
             </div>
         </div>
         <div class="row g-0">
