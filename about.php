@@ -129,6 +129,7 @@
                         instructions:</li>
                     <li>Present your Screenshot Confirmation that you have been paid for the finals match event.</li>
                     <li>Any types of cheering signs are allowed but maintain CLAYGO. (For Physical Watching)</li>
+                    <li>During Registration of Pay-Per-View, they will vote for their favorite team, <b>The more votes accumulated for their favorite team will win 300PHP.</b></li>
                 </ol>
             </div>
         </div>
