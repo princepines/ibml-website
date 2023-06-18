@@ -60,7 +60,7 @@
             <div class="col">
                 <div class="alert alert-primary" role="alert">
                     <h4 class="alert-heading">Purchase Tickets for Pay-Per-View!</h4>
-                    <p>To purchase a ticket for this event, click the link here: <a href="https://forms.gle/AhyM4KKEPkyrhpMv5" class="alert-link">https://forms.gle/AhyM4KKEPkyrhpMv5</a></p>
+                    <p>To purchase a ticket for this event, click the link here: <ol><li>Semi-Finals: <a href="https://forms.gle/z1WXT15orSPVZk8V6" class="alert-link">https://forms.gle/z1WXT15orSPVZk8V6</a></li><li>Finals: <a href="https://forms.gle/95Wtg3FfPQ7uyJdp9" class="alert-link">https://forms.gle/95Wtg3FfPQ7uyJdp9</a></li></ol></p>
                 </div>
                 <div class="alert alert-warning">Watch the <b>replay</b> of the opening: <a href="https://fb.watch/l9gTwiJ-nF/" class="alert-link">https://fb.watch/l9gTwiJ-nF</a></div>
             </div>
